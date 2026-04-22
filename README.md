@@ -6,7 +6,7 @@ dessinés par le programme.
 
 ## Aperçu
 
-![Aperçu du jeu](screenshot.png)
+![Aperçu du jeu](screenshot.jpg)
 
 ## Fonctionnalités
 
